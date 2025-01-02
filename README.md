@@ -6,6 +6,8 @@ Flutter App that takes a picture of a window and measures the size of the pain
 A new Flutter project.
 
 ## Getting Started
+Open the directory titled 'Fabrice Painless Prep'. Inside you will find a readme explaining the steps and process of the measuring python program. There is also a link to my original repo that has all the code as well.
+
 
 This project is a starting point for a Flutter application.
 
